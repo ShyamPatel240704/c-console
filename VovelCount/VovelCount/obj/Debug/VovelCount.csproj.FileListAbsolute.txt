@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\bin\Debug\VovelCount.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\bin\Debug\VovelCount.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\bin\Debug\VovelCount.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\obj\Debug\VovelCount.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\obj\Debug\VovelCount.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\VovelCount\VovelCount\obj\Debug\VovelCount.pdb
