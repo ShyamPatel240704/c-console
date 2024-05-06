@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\bin\Debug\ReplaceChar.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\bin\Debug\ReplaceChar.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\bin\Debug\ReplaceChar.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\obj\Debug\ReplaceChar.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\obj\Debug\ReplaceChar.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReplaceChar\ReplaceChar\obj\Debug\ReplaceChar.pdb
