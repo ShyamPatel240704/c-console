@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\bin\Debug\EncreptedString.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\bin\Debug\EncreptedString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\bin\Debug\EncreptedString.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\obj\Debug\EncreptedString.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\obj\Debug\EncreptedString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\EncreptedString\EncreptedString\obj\Debug\EncreptedString.pdb
