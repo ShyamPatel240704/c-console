@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\bin\Debug\RetunTypeFunctionDemo.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\bin\Debug\RetunTypeFunctionDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\bin\Debug\RetunTypeFunctionDemo.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\obj\Debug\RetunTypeFunctionDemo.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\obj\Debug\RetunTypeFunctionDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\RetunTypeFunction\RetunTypeFunctionDemo\RetunTypeFunctionDemo\obj\Debug\RetunTypeFunctionDemo.pdb
