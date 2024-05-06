@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\bin\Debug\SupressLowerCase.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\bin\Debug\SupressLowerCase.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\bin\Debug\SupressLowerCase.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\obj\Debug\SupressLowerCase.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\obj\Debug\SupressLowerCase.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressLowerCase\SupressLowerCase\obj\Debug\SupressLowerCase.pdb
