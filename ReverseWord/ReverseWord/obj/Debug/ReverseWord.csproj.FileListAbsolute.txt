@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\bin\Debug\ReverseWord.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\bin\Debug\ReverseWord.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\obj\Debug\ReverseWord.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\obj\Debug\ReverseWord.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseWord\ReverseWord\obj\Debug\ReverseWord.csprojResolveAssemblyReference.cache
