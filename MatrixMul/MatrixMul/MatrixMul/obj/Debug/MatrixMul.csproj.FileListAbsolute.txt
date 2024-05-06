@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\bin\Debug\MatrixMul.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\bin\Debug\MatrixMul.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\bin\Debug\MatrixMul.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\obj\Debug\MatrixMul.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\obj\Debug\MatrixMul.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\MatrixMul\MatrixMul\MatrixMul\obj\Debug\MatrixMul.pdb
