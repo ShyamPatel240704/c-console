@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\bin\Debug\FindChar.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\bin\Debug\FindChar.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\bin\Debug\FindChar.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\obj\Debug\FindChar.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\obj\Debug\FindChar.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindChar\FindChar\obj\Debug\FindChar.pdb

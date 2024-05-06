@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\bin\Debug\FindWord.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\bin\Debug\FindWord.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\bin\Debug\FindWord.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\obj\Debug\FindWord.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\obj\Debug\FindWord.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\FindWord\FindWord\obj\Debug\FindWord.pdb
