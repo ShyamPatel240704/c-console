@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\bin\Debug\PenindromString.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\bin\Debug\PenindromString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\bin\Debug\PenindromString.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\obj\Debug\PenindromString.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\obj\Debug\PenindromString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\PenindromString\PenindromString\obj\Debug\PenindromString.pdb
