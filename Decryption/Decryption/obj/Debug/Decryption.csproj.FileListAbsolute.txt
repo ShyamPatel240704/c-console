@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\bin\Debug\Decryption.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\bin\Debug\Decryption.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\bin\Debug\Decryption.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\obj\Debug\Decryption.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\obj\Debug\Decryption.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Decryption\Decryption\obj\Debug\Decryption.pdb
