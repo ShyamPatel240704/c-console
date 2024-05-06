@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\bin\Debug\Transpose Matrix.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\bin\Debug\Transpose Matrix.exe
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\bin\Debug\Transpose Matrix.pdb
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\obj\Debug\Transpose Matrix.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\obj\Debug\Transpose Matrix.exe
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\Transpose Matrix\Transpose Matrix\Transpose Matrix\obj\Debug\Transpose Matrix.pdb
