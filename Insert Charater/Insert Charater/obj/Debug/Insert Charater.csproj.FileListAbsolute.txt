@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\bin\Debug\Insert Charater.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\bin\Debug\Insert Charater.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\bin\Debug\Insert Charater.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\obj\Debug\Insert Charater.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\obj\Debug\Insert Charater.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Insert Charater\Insert Charater\obj\Debug\Insert Charater.pdb
