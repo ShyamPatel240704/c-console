@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\bin\Debug\InsertString.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\bin\Debug\InsertString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\bin\Debug\InsertString.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\obj\Debug\InsertString.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\obj\Debug\InsertString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\InsertString\InsertString\obj\Debug\InsertString.pdb
