@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ReverseString\ReverseString\obj\Debug\ReverseString.pdb
