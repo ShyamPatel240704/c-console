@@ -1,0 +1,9 @@
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\bin\Debug\FullAccending.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\bin\Debug\FullAccending.exe
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\bin\Debug\FullAccending.pdb
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\obj\Debug\FullAccending.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\obj\Debug\FullAccending.exe
+G:\Practical\PRACTICAL VS CONSOLE\2D Array\FullAccending\FullAccending\FullAccending\obj\Debug\FullAccending.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\FullAccending\FullAccending\FullAccending\bin\Debug\FullAccending.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\FullAccending\FullAccending\FullAccending\obj\Debug\FullAccending.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\2D Array\FullAccending\FullAccending\FullAccending\obj\Debug\FullAccending.pdb
