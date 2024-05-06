@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\bin\Debug\AllTrim.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\bin\Debug\AllTrim.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\bin\Debug\AllTrim.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\obj\Debug\AllTrim.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\obj\Debug\AllTrim.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\AllTrim\AllTrim\obj\Debug\AllTrim.pdb
