@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\bin\Debug\SupressCapital.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\bin\Debug\SupressCapital.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\bin\Debug\SupressCapital.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\obj\Debug\SupressCapital.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\obj\Debug\SupressCapital.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\SupressCapital\SupressCapital\obj\Debug\SupressCapital.pdb

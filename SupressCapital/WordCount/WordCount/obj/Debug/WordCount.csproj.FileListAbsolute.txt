@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\bin\Debug\WordCount.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\bin\Debug\WordCount.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\bin\Debug\WordCount.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\obj\Debug\WordCount.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\WordCount\WordCount\obj\Debug\WordCount.pdb
