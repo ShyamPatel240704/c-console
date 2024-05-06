@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\bin\Debug\ToggleCase.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\bin\Debug\ToggleCase.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\bin\Debug\ToggleCase.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\obj\Debug\ToggleCase.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\obj\Debug\ToggleCase.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\ToggleCase\ToggleCase\obj\Debug\ToggleCase.pdb
