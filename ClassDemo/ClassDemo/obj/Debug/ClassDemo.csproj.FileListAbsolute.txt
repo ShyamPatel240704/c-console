@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\bin\Debug\ClassDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\bin\Debug\ClassDemo.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\obj\Debug\ClassDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassDemo\ClassDemo\obj\Debug\ClassDemo.pdb
