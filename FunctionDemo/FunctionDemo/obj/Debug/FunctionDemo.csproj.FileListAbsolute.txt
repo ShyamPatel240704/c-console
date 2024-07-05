@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\bin\Debug\FunctionDemo.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Function\FunctionDemo\FunctionDemo\obj\Debug\FunctionDemo.pdb
