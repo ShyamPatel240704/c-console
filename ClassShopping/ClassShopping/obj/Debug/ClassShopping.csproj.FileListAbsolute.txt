@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\bin\Debug\ClassShopping.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\obj\Debug\ClassShopping.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\bin\Debug\ClassShopping.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\bin\Debug\ClassShopping.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\obj\Debug\ClassShopping.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\ClassShopping\ClassShopping\obj\Debug\ClassShopping.pdb
