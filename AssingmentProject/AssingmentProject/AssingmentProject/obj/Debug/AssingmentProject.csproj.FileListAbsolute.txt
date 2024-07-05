@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\bin\Debug\AssingmentProject.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\bin\Debug\AssingmentProject.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\bin\Debug\AssingmentProject.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\obj\Debug\AssingmentProject.csprojResolveAssemblyReference.cache
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\obj\Debug\AssingmentProject.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentProject\AssingmentProject\AssingmentProject\obj\Debug\AssingmentProject.pdb

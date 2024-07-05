@@ -1,0 +1,6 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\bin\Debug\AssingmentMemberShip.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\bin\Debug\AssingmentMemberShip.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\bin\Debug\AssingmentMemberShip.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\obj\Debug\AssingmentMemberShip.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\obj\Debug\AssingmentMemberShip.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\Class\AssingmentMember\AssingmentMemberShip\AssingmentMemberShip\obj\Debug\AssingmentMemberShip.csprojResolveAssemblyReference.cache
