@@ -1,0 +1,11 @@
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Pett\Pett2\Pett2\bin\Debug\Pett2.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Pett\Pett2\Pett2\bin\Debug\Pett2.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Pett\Pett2\Pett2\bin\Debug\Pett2.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Pett\Pett2\Pett2\obj\Debug\Pett2.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String\Pett\Pett2\Pett2\obj\Debug\Pett2.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\bin\Debug\Pett2.exe.config
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\obj\Debug\Pett2.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\obj\Debug\Pett2.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\bin\Debug\Pett2.exe
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\bin\Debug\Pett2.pdb
+G:\Practical\PRACTICAL VS CONSOLE\New folder (2)\String Pett\Pett2\Pett2\obj\Debug\Pett2.csprojResolveAssemblyReference.cache
