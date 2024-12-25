@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="form">
+            <div class="form-header">
+                <h1>Registration</h1>
+            </div>
+            <div class="form-content">
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">Name</label>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" id="Name" name="Name" placeholder="Name">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">Email</label>
+                        </div>
+                        <div class="form-input">
+                            <input type="text" id="Email" name="Email" placeholder="Email">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">City</label>
+                        </div>
+                        <div class="form-input">
+                           <select name="drop1" id="drop1">
+                                <option value="">Select City</option>
+                                <option value="Himatnagar">Himatnagar</option>
+                                <option value="Ahemdabad">Ahemdabad</option>
+                                <option value="Prantij">Prantij</option>
+                                <option value="Modasa">Modasa</option>
+
+                           </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">Gender</label>
+                        </div>
+                        <div class="form-radio">
+                            <input type="radio" id="rdo1" name="rdo" value="Male">
+                            <label for="rdo1">Male</label>
+                            <input type="radio" id="rdo2" name="rdo" value="Female">
+                            <label for="rdo2">Female</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">Address</label>
+                        </div>
+                        <div class="form-textarea">
+                            <textarea name="Address" id="Address" placeholder="Address"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-froup">
+                        <div class="form-label">
+                            <label for="">Date</label>
+                        </div>
+                        <div class="form-date">
+                           <input type="date" id="date1" name="date1" >
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="form-footer" id="form-footer">
+                <input type="button" value="Registration" onclick="btn1Click()" id="btn1" name="btn1">
+                <input type="button" value="Update" onclick="UpdatabuttonClick()" id="Updatabutton" name="Updatabutton">
+
+            </div>
+        </div>
+
+        <div class="row">
+            <table id="table">
+                <thead>
+                    <tr>
+                        <td>No</td>
+                        <td>Name</td>
+                        <td>Email</td>
+                        <td>City</td>
+                        <td>Gender</td>
+                        <td>Address</td>
+                        <td>Date</td>
+                        <td>Edit</td>
+                        <td>Delete</td>
+                        
+                    </tr>
+                </thead>
+                <tbody id="tbdTag"></tbody>
+            </table>
+        </div>
+    </div>
+
+
+
+    <script src="practical.js"></script>
+</body>
+
+</html>

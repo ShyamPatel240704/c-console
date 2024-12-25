@@ -1,0 +1,38 @@
+.clear
+{
+    clear: both;
+}
+
+.piston-list
+{
+    width: 1170px;
+    margin: auto;
+    text-align: center;
+}
+
+.box
+{
+    height: 500px;    
+}
+.box #Piston
+{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    /* float: left; */
+    display: inline-block;
+    margin-right: 10px;
+    transition: 1s transform;
+    /* transform: translateY(); */
+}
+.box hr
+{
+    border-bottom: 5px solid gray;
+    box-shadow:2px 0px 10px 0px;
+    margin-top: 500px;
+    
+}
+
+.piston.in {
+    transform: translateY(500px) rotate(360deg);
+}
