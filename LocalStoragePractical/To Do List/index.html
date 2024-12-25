@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Site.css">
+</head>
+
+<body>
+
+    <div class="box">
+        <!-- Header Start -->
+        <div class="box-header">
+            <div class="header-top">
+                <h1>To Do List</h1>
+            </div>
+            <div class="header-mid">
+                <input type="text" id="txt1" name="txt1">
+            </div>
+            <div class="header-bottom">
+                <button type="button" id="btn1" onclick="SendData()">Add</button>
+            </div>
+        </div>
+        <!-- Header End -->
+
+        <!-- Content Start -->
+        <div class="box-content">
+            <div class="row">
+                <div class="col-4">
+                    <div class="output1">
+                        <div class="content-top">
+                            <h1>Work Box</h1>
+                        </div>
+                        <div  id="content-mid1" class="content-mid1"></div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="output2">
+                        <div class="content-top">
+                            <h1>Completed Box</h1>
+                        </div>
+                        <div id="content-mid2" class="content-mid2"></div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="output3">
+                        <div class="content-top">
+                            <h1>Trash Box</h1>
+                        </div>
+                        <div id="content-mid3" class="content-mid3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Content Start -->
+    </div>
+
+    <script src="practical.js"></script>
+</body>
+
+</html>

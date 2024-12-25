@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box 
+{
+    width: 1170px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+/* Header Start */
+
+.box-header
+{
+    width: 1170px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+/* Header-Top Start */
+
+
+.box-header .header-top
+{
+    height: 50px;
+    background-color: blue;
+    padding: 5px;
+    display: block;
+}
+.box-header .header-top h1
+{
+    color: white;
+}
+
+/* Header-Top End */
+
+/* Header-Mid Start */
+
+.box-header .header-mid
+{
+    height: 47px;
+   padding: 10px 10px;
+   
+}
+
+.box-header .header-mid input
+{
+    width: 100%;
+}
+
+/* Header-Mid End */
+
+/* Header-Bottom Start */
+
+.box-header .header-bottom
+{
+    height: 50px;
+    background-color: rgb(0, 255, 0);
+}
+
+.box-header .header-bottom button
+{
+    padding: 10px;
+    margin: 5px 10px;
+}
+
+/* Header-Bottom End */
+
+
+/* Header End */
+
+
+/* Content Start */
+
+.box-content 
+{
+    margin-top: 50px;
+}
+.box-content .row
+{
+    display: flex;
+    margin-left: -20px;
+}
+
+.box-content .col-4
+{
+    width: 33.33%;
+    
+    margin-left: 20px;
+}
+.box-content .output1
+{
+    border: 2px solid black;
+}
+.box-content .content-top
+{
+    padding: 6px;
+    text-align: center;
+    background-color: brown;
+    border-bottom: 2px solid black;
+    height: 50px;
+}
+
+.box-content #content-mid1
+{
+    padding: 6px;
+    height: 300px;
+    overflow: scroll;
+}
+
+.box-content .output2
+{
+    border: 2px solid black;
+}
+.box-content #content-mid2
+{
+    padding: 6px;
+    height: 300px;
+    overflow: scroll;
+}
+.box-content .output3
+{
+    border: 2px solid black;
+}
+.box-content #content-mid3
+{
+    padding: 6px;
+    height: 300px;
+    overflow: scroll;
+}
+/* Content Start */
