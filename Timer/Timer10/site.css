@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+}
+
+.box2
+{
+    display: none;
+}
+
+.box3
+{
+    display: none;
+}
+
+#lbl3
+{
+    display: none;
+}
