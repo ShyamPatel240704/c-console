@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+body
+{
+    height: 100vh;
+    position: relative;
+    display: block;
+}
+.BubbleCircle
+{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+    text-align: center;
+    line-height: 50px;
+    /* cursor: pointer; */
+    bottom: 0;
+    /* display: inline-block; */
+}
+
+
+.Footer
+{
+    background-color: brown;
+    height: 60px;
+    position: fixed;
+    padding:   50px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+}
+
+.Footer .Left
+{
+    width: 33.33%;
+    display: inline-block;
+    position: relative;
+}
+.Footer .Left label
+{
+    position: absolute;
+    right: 75%;
+}
+
+.Footer .Mid
+{
+    width: 30.33%;
+    display: inline-block;
+    position: relative;
+}
+.Footer .Mid label
+{
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.Footer .Mid li
+{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+.Footer .Right
+{
+    width: 33.33%;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+.Footer .Right button
+{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: solid black;
+}
+.Footer .Right #btn2
+{
+    display: none;
+}
+
+.Footer .Right #btn3
+{
+    display: none;
+}
+
+.Footer .Right #btn4
+{
+    display: none;
+}

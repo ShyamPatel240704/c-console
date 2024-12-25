@@ -1,0 +1,112 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.inputdiv
+{
+    width: 300px;
+    margin: auto;
+    box-shadow: 1px 4px 5px 1px;
+    background-color: antiquewhite;
+    margin: 10px auto;
+    padding: 5px;
+    
+}
+.container
+{
+    width: 1170px;
+    margin: auto;
+    /* padding: 10px; */
+    margin-top: 50px;
+}
+.AddToDo
+{
+    border: 2px solid blue;
+    width: 1170px;
+    margin: auto;
+}
+
+.AddToDo .header
+{
+    /* height: 100px; */
+    padding: 20px;
+    background-color: blue;
+    border-bottom: 2px solid blue;
+
+}
+.AddToDo .contant
+{
+    
+    padding: 20px;
+    
+}
+.AddToDo .footer
+{
+    /* height: 100px; */
+    padding: 20px;
+    background-color: rgb(255, 0, 0);
+    border-top: 2px solid blue;
+
+}
+.AddToDo .footer button
+{
+    padding: 10px;
+}
+.row
+{
+    display: flex;
+}
+.left
+{
+    width: 370px;
+    border: 2px solid rgb(61, 165, 42);
+
+    margin-left:  10px;
+}
+
+.left .contant{
+    height: 340px;
+    overflow: scroll;
+}
+
+.left .contant #box #editbtn{
+    background-color: blue;
+    padding: 10px;
+}
+.left .contant #box #updatebtn  {
+    background-color: blue;
+    padding: 10px;
+}
+.mid
+{
+    width: 370px;
+    border: 2px solid rgb(61, 165, 42);
+
+    margin-left:  10px;
+
+}
+.mid .contant{
+    height: 300px;
+}
+
+
+.right
+{
+    width: 375px;
+    border: 2px solid rgb(61, 165, 42);
+
+    margin-left:  10px;
+
+}
+
+.right .contant{
+    height: 300px;
+}
+
+.header
+{
+    padding: 20px;
+    background-color: brown;
+}
+

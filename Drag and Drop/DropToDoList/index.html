@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<body>
+    <!-- <label id="lba1">0</label>
+    <label id="lba2">0</label> -->
+
+    <div class="container">
+        <div class="AddToDo">
+            <div class="header">
+                <h2>To Do List</h2>
+            </div>
+            <div class="contant">
+                <input type="text" id="txt1">
+            </div>
+            <div class="footer">
+                <button id="btn1" onclick="btn1Click()">Add</button>
+            </div>
+        </div>
+
+        <div class="Output">
+            <div class="row">
+                <div class="left">
+                    <div class="header"><h2>Work</h2></div>
+                    <div class="contant" id="Work">
+                        <div id="workbox"></div>
+                    </div>
+                </div>
+                <div class="mid">
+                    <div class="header"><h2>Completed</h2></div>
+                    <div ondrop="DropEvent(event)" class="contant" id="Completed" ondragover="DragOverEvent(event)"></div>
+        
+                </div>
+                <div class="right">
+                    <div class="header"><h2>Trash</h2></div>
+                    <div class="contant" id="Trash"></div>
+        
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="practical.js"></script>
+</body>
+</html>

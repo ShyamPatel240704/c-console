@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+
+<body id="bodyId" onkeypress="removeBubble(event)">
+    <div id="Circle"></div>
+
+    <!-- Xpos = <label id="lbl1">0</label>
+    Ypos = <label id="lbl2">0</label> -->
+    LastScoreValueLocal = <label id="lbl3">0</label>
+    <br>
+    HeighScoreValueLocal = <label id="lbl4">0</label>
+
+
+
+
+    <div class="Footer">
+        <div class="Left">
+            Score <label id="ScoreValue"> 0 </label>
+            <br>
+            LastScore <label id="LastScoreValue"> 0 </label>
+            <br>
+            HeighScore <label id="HeighScore"> 0 </label>
+
+        </div>
+        <div class="Mid">
+            Game Timer = <label id="GameStart">0</label>
+            <ul>
+                <li id="box1"></li>
+                <li id="box2"></li>
+                <li id="box3"></li>
+                <li id="box4"></li>
+                <li id="box5"></li>
+            </ul>
+        </div>
+        <div class="Right">
+            <button id="btn1" onclick="btn1Click()">New Game</button>
+            <button id="btn2" onclick="btn2Click()">Push Game</button>
+            <button id="btn3" onclick="btn3Click()">Start Game</button>
+            <button id="btn4" onclick="btn4Click()">Reset Game</button>
+
+        </div>
+    </div>
+
+
+    <script src="practical.js"></script>
+</body>
+
+</html>

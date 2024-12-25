@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container
+        {
+            width: 500px;
+
+        }
+        .row
+        {
+            display: flex;
+        }
+        .col-6
+        {
+            width: 50%;
+            padding: 10px;
+            /* display: inline-block; */
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+   <div class="container">
+    <div class="row">
+        <div class="col-6" id="box1">
+           <p id="p1" draggable="true" ondragstart="DragStartEvent(event)">input</p>
+           <p id="p2" draggable="true" ondragstart="DragStartEvent(event)">RadioButton</p>
+           <p id="p3" draggable="true" ondragstart="DragStartEvent(event)">Label</p>
+
+
+        </div>
+        <div ondrop="DropEvent(event)"; class="col-6" id="box2" ondragover="DragOverEvent(event)"></div>
+    </div>
+   </div>
+
+   <script src="site.js"></script>
+</body>
+</html>
