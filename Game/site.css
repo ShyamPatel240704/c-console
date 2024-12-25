@@ -1,0 +1,114 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    height: 100vh;
+    position: relative;
+    /* padding-top: 100px; */
+    
+    display: block;
+}
+
+.bubble
+{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: blue;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    line-height: 45px;
+    right: 0;
+    
+    transition: 5s transform;
+
+    
+
+}
+
+
+#lbl1
+{
+    display: none;
+}
+#lbl2
+{
+    display: none;
+}
+#lbl3
+{
+    display: none;
+}
+
+.Footer
+{
+    height: 100px;
+    background-color: brown;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 999999;
+    position: fixed;
+    padding: 20px;
+    /* transform: translateY(100px); */
+}
+
+.Footer .Left
+{
+    width: 33.33%;
+    display: inline-block;
+    position: relative;
+}
+.Footer .Left label
+{
+    position: absolute;
+    right: 300px;
+}
+.Footer .Mid
+{
+    width: 33.33%;
+    display: inline-block;
+}
+.Footer .Mid li
+{
+    width: 50px;
+    height: 50px;
+    background-color: thistle;
+    display: inline-block;
+}
+.Footer .Right
+{
+    width: 30.33%;
+    display: inline-block;
+}
+.Footer .Right #btn1
+{
+    padding: 18px 10px;
+    background-color: green;
+}
+
+.Footer .Right #btn2
+{
+    padding: 18px 10px;
+    background-color: green;
+    display: none;
+}
+
+.Footer .Right #btn3
+{
+    padding: 18px 10px;
+    background-color: green;
+    display: none;
+}
+
+.Footer .Right #btn4
+{
+    padding: 18px 10px;
+    background-color: green;
+    display: none;
+}
