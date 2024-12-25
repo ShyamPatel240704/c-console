@@ -1,0 +1,38 @@
+﻿body {
+    background-color:red;
+
+}
+.main
+{
+    width:1000px;
+    margin:auto;    
+}
+/*Header Start*/
+.header
+{
+    width:1000px;
+    height:100px;
+    background-color:blue;
+
+}
+.menu
+{
+    background-color:black;
+
+    width:1000px;
+    height:40px;
+}
+.content
+{
+    background-color:orange;
+
+    width:1000px;
+    height:500px;
+}
+.footer
+{
+    background-color:green;
+
+    width:1000px;
+    height:60px;
+}
