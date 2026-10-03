@@ -1,0 +1,76 @@
+Program.cs
+
+//Setup JWT TOKEN
+
+//var key = Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Key"]);
+
+//builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+//.AddJwtBearer(options =>
+//{
+//    options.TokenValidationParameters = new TokenValidationParameters
+//    {
+//        ValidateIssuer = true,
+//        ValidateAudience = true,
+//        ValidateLifetime = true,
+//        ValidateIssuerSigningKey = true,
+//        ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
+//        ValidAudience = builder.Configuration["JwtSettings:Audience"],
+//        IssuerSigningKey = new SymmetricSecurityKey(
+//            Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Key"]))
+//    };
+//});
+
+//builder.Services.AddScoped<IJwtTokenHelper, JwtTokenHelper>();
+
+
+// Add services to the container.
+//builder.Services.AddRazorPages(option =>
+//{
+//    option.Conventions.ConfigureFilter(new AdminPageFilter());
+//});
+
+
+// Active JWT TOKEN 
+//app.UseMiddleware<JwtCookieToHeaderMiddleware>();
+
+
+//app.UseAuthentication();
+
+
+Filter File
+
+ // ✅ JWT Authentication Check
+ //if (!httpContext.User.Identity.IsAuthenticated)
+ //{
+ //    context.Result = new RedirectToPageResult("/Admin/LoginForm");
+ //    return;
+ //}
+
+
+MenuViewComponent
+
+            // ✅ Logout Logic
+            var action = HttpContext.Request.Query["action"].ToString();
+
+            if (action == "logout")
+            {
+                HttpContext.Response.Cookies.Delete("jwtToken");
+                HttpContext.Response.Redirect("/Admin/LoginForm");
+                return Content("");
+            }
+
+            // ✅ JWT Claims mathi RegId & Roll lo
+            var regIdClaim = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier);
+            var rollClaim = HttpContext.User.FindFirst(ClaimTypes.Role);
+
+            if (regIdClaim == null || rollClaim == null)
+            {
+                return Content(""); // user not logged in
+            }
+
+            int regId = Convert.ToInt32(regIdClaim.Value);
+            int roll = Convert.ToInt32(rollClaim.Value);
+
+            var model = await db.GetByAdminDataList(regId, roll);
+
+            return View("AdminMenu", model);
